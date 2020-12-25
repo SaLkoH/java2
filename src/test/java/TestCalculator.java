@@ -5,7 +5,6 @@ import practice8.operations.Multi;
 import practice8.operations.Sub;
 import practice8.operations.Sum;
 
-import java.util.InputMismatchException;
 
 
 public class TestCalculator {
